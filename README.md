@@ -8,6 +8,7 @@ Esta é uma plataforma de interação em salas através de perguntas anônimas
 - NodeJs
 - EJS
 - ExpressJS
+- SQLite
 
 # Layout
 Layout do projeto através [desse link](https://www.figma.com/file/vp3iFfd1ohCbHyDX9jCiQi/Roquet.q).
